@@ -2,6 +2,8 @@
 
 # Agentic AI Field Guide
 
+**Learner:** Donald Ezenwa
+
 **A 24-week learning journey - organized resources, hands-on practice, and learning notes.**
 
 [Start Here](#start-here) · [24-Week Roadmap](ROADMAP.md) · [Weekly Resources](#weekly-resources) · [Contributing](CONTRIBUTING.md)
@@ -10,7 +12,7 @@
 
 ---
 
-> **Project status:** In progress. Weeks 1–2 have resource links recorded. Resource topics and learning outcomes still need to be verified from the source materials.
+> **Project status:** In progress. Weeks 1-4 have learning-platform links recorded; Weeks 5-24 are awaiting materials.
 
 ## Start here
 
@@ -28,9 +30,11 @@ This repository organizes resources for a 24-week Agentic AI training journey. I
 
 | Week | Status | Resource index |
 |---|---|---|
-| [Week 01](weeks/week-01/README.md) | Links recorded; topics to verify | Foundations / source materials |
-| [Week 02](weeks/week-02/README.md) | Links recorded; GitHub destination needs clarification | Slides and hands-on document |
-| Weeks 03–24 | Not yet supplied | Reserved for future resources |
+| [Week 01](weeks/week-01/README.md) | Links recorded; content not yet verified | Foundations / source materials |
+| [Week 02](weeks/week-02/README.md) | Links recorded; content not yet verified | Slides and hands-on document |
+| [Week 03](weeks/week-03/README.md) | Python Fundamentals resources verified | Python lessons, exercises, and demos |
+| [Week 04](weeks/week-04/README.md) | Python OOP and File Handling links recorded | Python classes and files |
+| Weeks 05–24 | Templates awaiting materials | Reserved for future resources |
 
 ## Resource status key
 
@@ -57,16 +61,15 @@ This repository organizes resources for a 24-week Agentic AI training journey. I
 └── weeks/
     ├── week-01/
     │   ├── README.md
-    │   ├── resource-notes.md
-    │   └── learning-log.md
+    │   └── resource-notes.md
     ├── week-02/
     │   ├── README.md
+    │   └── resource-notes.md
+    ├── week-03/
+    │   ├── README.md
     │   ├── resource-notes.md
-    │   └── learning-log.md
-    └── week-03-to-24/
-        ├── README.md
-        ├── resource-notes.md
-        └── learning-log.md
+    │   └── resources/
+    └── week-04/ through week-24/
 ```
 
 

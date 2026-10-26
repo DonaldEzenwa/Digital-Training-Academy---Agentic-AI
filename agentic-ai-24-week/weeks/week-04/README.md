@@ -1,25 +1,33 @@
-# Weekly Resource Template
+# Week 04 - Python OOP and File Handling
 
-Copy this folder for each upcoming week and rename it `week-03`, `week-04`, and so on through `week-24`.
-
-**Official week title:**  
-**Status:** Not started  
-**Date / schedule:**  
+**Learner:** Donald Ezenwa  
+**Status:** Links recorded; content not yet verified  
+**Date / schedule:** 2026-10-26
 
 ## Learning objectives
 
-- To be added from the official materials.
+- Define and use classes and objects in Python.
+- Understand constructors, attributes, methods, and basic inheritance.
+- Read, write, and manage files safely in Python.
+- Apply object-oriented and file-handling concepts to practical scripts.
 
-## Resources
+## Learning platform
 
-| Resource | Type | Link | Why it matters | Status |
-|---|---|---|---|---|
-| Resource 1 | To classify | Add link | Add after review | Not started |
+| Resource | Type | Link | Status |
+|---|---|---|---|
+| Pluralsight learning channel | Learning platform | [Open channel](https://app.pluralsight.com/channels) | Link recorded; content not yet verified |
+| Python 3: Classes and Object-Oriented Programming | Pluralsight course | [Open course](https://www.pluralsight.com/courses/python-3-classes-object-oriented-programming) | Link recorded; content not yet verified |
+| Python 3: Working with Files | Pluralsight course | [Open course](https://www.pluralsight.com/courses/python-3-working-files) | Link recorded; content not yet verified |
 
 ## Weekly checklist
 
-- [ ] Review all assigned resources.
-- [ ] Complete the hands-on task.
-- [ ] Record notes and questions.
-- [ ] Link any personal deliverable.
-- [ ] Update the roadmap.
+- [ ] Review the Week 4 Pluralsight courses.
+- [ ] Practise defining classes, objects, attributes, and methods.
+- [ ] Practise reading from and writing to files.
+- [ ] Record notes, questions, and errors in `resource-notes.md`.
+- [ ] Link the completed practice work or personal deliverable.
+- [ ] Update the roadmap when Week 4 is complete.
+
+## Related files
+
+- [Resource notes](resource-notes.md)

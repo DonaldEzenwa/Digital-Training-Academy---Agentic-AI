@@ -1,5 +1,7 @@
 # Agentic AI Field Guide
 
+**Learner:** Donald Ezenwa
+
 ## Table of Contents
 
 - [About This Guide](#about-this-guide)
@@ -29,23 +31,24 @@ If you are stepping into this program for the first time, start at [Week 01](age
 
 ## The 24-Week Journey
 
-The guide is organized into 24 weeks, each with its own folder under `agentic-ai-24-week/weeks/`. Every week contains three files:
+The guide is organized into 24 weeks, each with its own folder under `agentic-ai-24-week/weeks/`. Each planned week contains a resource index and notes file:
 
 | File | Purpose |
 |------|---------|
 | `README.md` | Resource index - links to the week's slides, documents, and repositories, plus review status |
 | `resource-notes.md` | Personal notes on what each resource covers, key takeaways, and open questions |
-| `learning-log.md` | Dated log of what was studied, practiced, and delivered that week |
 
 ### Current progress
 
 | Week | Status | Resource index |
 |------|--------|----------------|
-| [Week 01](agentic-ai-24-week/weeks/week-01/README.md) | Links recorded; topics to verify | [View resources](agentic-ai-24-week/weeks/week-01/README.md) |
-| [Week 02](agentic-ai-24-week/weeks/week-02/README.md) | Links recorded; GitHub destination needs clarification | [View resources](agentic-ai-24-week/weeks/week-02/README.md) |
-| Weeks 03–24 | Not yet supplied | Reserved for future resources |
+| [Week 01](agentic-ai-24-week/weeks/week-01/README.md) | Links recorded; content not yet verified | [View resources](agentic-ai-24-week/weeks/week-01/README.md) |
+| [Week 02](agentic-ai-24-week/weeks/week-02/README.md) | Links recorded; content not yet verified | [View resources](agentic-ai-24-week/weeks/week-02/README.md) |
+| [Week 03](agentic-ai-24-week/weeks/week-03/README.md) | Python Fundamentals resources verified | [View resources](agentic-ai-24-week/weeks/week-03/README.md) |
+| [Week 04](agentic-ai-24-week/weeks/week-04/README.md) | Python OOP and File Handling links recorded | [View resources](agentic-ai-24-week/weeks/week-04/README.md) |
+| Weeks 05–24 | Templates awaiting source materials | Reserved for future resources |
 
-Weeks 01 and 02 have their source links recorded, but their official topics, learning objectives, and contents have not yet been verified against the source materials. Weeks 03 through 24 are reserved - their folders and templates exist, but they are waiting for the official curriculum to be supplied.
+Weeks 01 through 04 have source links recorded, but their full contents and learning outcomes remain to be verified against the source materials. Weeks 05 through 24 contain reusable templates awaiting their official curriculum.
 
 The full tracking roadmap lives at [agentic-ai-24-week/ROADMAP.md](agentic-ai-24-week/ROADMAP.md).
 
@@ -59,7 +62,7 @@ Whether you are a learner, a reviewer, or a contributor, follow these steps:
 2. **Start with that week's `README.md`** - it lists the official source materials and their review status.
 3. **Open the linked source materials** - slides, documents, videos, or repositories. Always prefer the original source.
 4. **Complete the hands-on activity** - each week includes practical exercises or deliverables to work through.
-5. **Record your own notes** - write what you learned in `resource-notes.md` and log your practice in `learning-log.md`.
+5. **Record your own notes** - write what you learned in `resource-notes.md` and add practice evidence when the week's materials are available.
 6. **Update the checklist and status** - mark items complete and update the roadmap when you finish a week.
 
 Never claim a resource is completed or reviewed until you have actually opened and worked through it.
@@ -118,18 +121,19 @@ To keep this guide trustworthy and useful, every contribution should follow thes
 │       ├── week-01/
 │       │   ├── README.md                  # Week 1 resource index
 │       │   ├── resource-notes.md          # Week 1 personal notes
-│       │   └── learning-log.md            # Week 1 dated learning log
+│       │   └── resource-notes.md          # Week 1 personal notes
 │       ├── week-02/
 │       │   ├── README.md                  # Week 2 resource index
 │       │   ├── resource-notes.md          # Week 2 personal notes
-│       │   └── learning-log.md            # Week 2 dated learning log
-│       └── week-03-to-24/
-│           ├── README.md                  # Template for future weeks
-│           ├── resource-notes.md          # Template notes
-│           └── learning-log.md            # Template log
+│       │   └── resource-notes.md          # Week 2 personal notes
+│       ├── week-03/
+│       │   ├── README.md                  # Week 3 resource index
+│       │   ├── resource-notes.md          # Week 3 personal notes
+│       │   └── resources/                 # Python Fundamentals materials
+│       └── week-04/ through week-24/      # Future-week templates
 ```
 
-Each week from 03 to 24 is a copy of the `week-03-to-24/` template, renamed to match the week number (for example, `week-03`, `week-04`, and so on).
+Weeks 04 through 24 use the same lightweight README and resource-notes template until their official materials are supplied.
 
 ---
 
@@ -139,7 +143,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full process. In short:
 
 1. Fork the repository and create a new branch.
 2. Add or verify resources for a specific week.
-3. Update that week's `README.md`, `resource-notes.md`, and `learning-log.md`.
+3. Update that week's `README.md` and `resource-notes.md`.
 4. Update the [roadmap](agentic-ai-24-week/ROADMAP.md) when a week's topic or status changes.
 5. Open a pull request with a clear description of what was added or verified.
 
